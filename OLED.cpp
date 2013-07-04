@@ -18,7 +18,7 @@
 SoftwareSerial _softSerial(0, 0);
 
 //
-// Constructor
+// begin
 //
 // This library use a Software Serial so, it is necesary to specified rx and tx pin, reset pin and baudrates.
 boolean OLED::begin(uint8_t rxPin, uint8_t txPin, uint8_t resetPin, uint16_t baudRate){
