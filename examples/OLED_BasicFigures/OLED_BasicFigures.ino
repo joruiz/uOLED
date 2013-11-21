@@ -2,6 +2,11 @@
   BasicFigures
   Draw different figures in the screen (160pxx128px).
  
+  Connections:
+    uOLED TX pin to pin 5 of Arduino
+    uOLED RX pin to pin 6 of Arduino
+    uOLED R pin to pin 7 of Arduino
+
   This example code is in the public domain.
  */
  
